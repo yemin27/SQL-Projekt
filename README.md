@@ -52,7 +52,7 @@ V roce 2018 se průměrná kupní síla v oblasti chleba zvýšila na 1309 kilog
 Kategorií potravin, která vykazuje nejnižší procentuální meziroční nárůst ceny je curk krystalový. 
 
 ## 4. Existuje rok, ve kterém byl meziroční nárůst cen potravin výrazně vyšší než růst mezd (větší než 10 %)?
-Průměrný růst cen všech produktů nebyl nikdy o 10% vyšší než průměrný růst mezd. Nejvyšší rozdíl byl v roce 2013 o 6,14%.
+Na základě provedené analýzy neexistuje žádný rok, ve sledovaném období, kdy by průměrný meziroční nárůst cen potravin byl o více než 10 procentních bodů vyšší než průměrný meziroční nárůst mezd. Ve všech srovnatelných letech byl nárůst cen potravin v porovnání s nárůstem mezd nižší než tato hranice.
 
 ## 5. Má výška HDP vliv na změny ve mzdách a cenách potravin? Neboli, pokud HDP vzroste výrazněji v jednom roce, projeví se to na cenách potravin či mzdách ve stejném nebo násdujícím roce výraznějším růstem?
 HDP vzrostlo v letech 2007, 2015, 2017 a 2018.
