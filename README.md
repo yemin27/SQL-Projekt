@@ -25,7 +25,7 @@ K projektu jsou použity datové sady z Portálu otevřených dat ČR.
 5. Má výška HDP vliv na změny ve mzdách a cenách potravin? Neboli, pokud HDP vzroste výrazněji v jednom roce, projeví se to na cenách potravin či mzdách ve stejném nebo násdujícím roce výraznějším růstem?
 
 ## Výstup projektu
-Pomozte kolegům s daným úkolem. Výstupem by měly být dvě tabulky v databázi, ze kterých se požadovaná data dají získat. Tabulky pojmenujte t_kamila_krondakova_project_SQL_primary_final (pro data mezd a cen potravin za Českou republiku sjednocených na totožné porovnatelné období – společné roky) a t_kamila_krondakova_project_SQL_secondary_final (pro dodatečná data o dalších evropských státech).
+Pomozte kolegům s daným úkolem. Výstupem by měly být dvě tabulky v databázi, ze kterých se požadovaná data dají získat. Tabulky pojmenujte t_{jmeno}_{prijmeni}_project_SQL_primary_final (pro data mezd a cen potravin za Českou republiku sjednocených na totožné porovnatelné období – společné roky) a t_{jmeno}_{prijmeni}_project_SQL_secondary_final (pro dodatečná data o dalších evropských státech).
 
 ## 1. Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?
 V letech 2006 až 2018 průměrně rostly mzdy ve všech odvětvích o 3,9 procenta, což naznačuje celkově pozitivní trend na trhu práce. Nicméně, detailnější pohled odhaluje značné rozdíly v dynamice mezd mezi jednotlivými sektory.
@@ -55,9 +55,11 @@ Kategorií potravin, která vykazuje nejnižší procentuální meziroční nár
 Na základě provedené analýzy neexistuje žádný rok, ve sledovaném období, kdy by průměrný meziroční nárůst cen potravin byl o více než 10 procentních bodů vyšší než průměrný meziroční nárůst mezd. Ve všech srovnatelných letech byl nárůst cen potravin v porovnání s nárůstem mezd nižší než tato hranice.
 
 ## 5. Má výška HDP vliv na změny ve mzdách a cenách potravin? Neboli, pokud HDP vzroste výrazněji v jednom roce, projeví se to na cenách potravin či mzdách ve stejném nebo násdujícím roce výraznějším růstem?
-HDP vzrostlo v letech 2007, 2015, 2017 a 2018.
-HDP velmi kleslo  v roce 2009.
-V roce 2007 je výrazný růst HDP i v růstu mezd a cen, které potom výrazně narostly i v následujícím roce. 
-K nárůstu HPD došlo v roce 2015, 2017 a 2018 a mzda i v tomo období roste.
-Ceny výrazně vzrostly pouze v roce 2017. 
-Zhodnocení: Pokles HDP se odráží i v cenách i ve mzdách. Výška HDP má vliv na změny ve mzdách a cenách potravin. 
+Rok 2007 (vysoký růst HDP): Růst HDP byl v roce 2007 nejvyšší (5,57%). V následujícím roce (2008) byl zaznamenán největší nárůst mezd (7,87%) a také poměrně vysoký nárůst cen potravin (6,41%). To by mohlo naznačovat určitou souvislost, kdy vysoký ekonomický růst předchází růstu mezd a následně i cen.
+
+Rok 2016 (růst HDP): Růst HDP v roce 2016 byl 2,54%, což není extrémně vysoká hodnota, ale stále se jedná o růst. V následujícím roce (2017) byl zaznamenán největší nárůst cen potravin (9,98%). Zde by se mohla projevit zpožděná reakce cen na ekonomický růst.
+
+Závěr:
+
+Vysoký růst HDP v roce 2007 mohl přispět k růstu mezd v následujícím roce a následně i k růstu cen potravin.
+Růst HDP v roce 2016 mohl s určitým zpožděním ovlivnit výrazný nárůst cen potravin v roce 2017.
